@@ -3,7 +3,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=NitinMaharshi.NitinMaharshi)
+![](https://visitor-badge.glitch.me/badge?page_id=Sunil7575.Sunil7575)
 
 <br />
 
@@ -12,7 +12,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitinmaharshi/)
+- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/sunil-gour-a12067266)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
